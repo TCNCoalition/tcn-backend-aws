@@ -1,3 +1,7 @@
+# TCN Coalition Unified Backend Reference Imlpementation
+
+This repo is a work in progress and is forked from the [CoEpi backend repo](https://github.com/Co-Epi/coepi-backend-aws), where much of the unified interoperability work has been championed. Issues must be opened there until the unified backend work is fully transferred to the TCNCoalition GitHub.
+
 # TCN Server on AWS
 
 This repo contains server and infrastructure code for deploying and running CoEpi Cloud API on AWS.
@@ -99,7 +103,7 @@ For testing the lambda function and API locally, you can use SAM CLI. Below docs
 
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
 
-https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-using-invoke.html 
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-using-invoke.html
 
 ## Documentation for API Endpoints
 
